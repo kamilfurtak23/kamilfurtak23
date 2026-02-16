@@ -33,7 +33,7 @@ Interesuję się wykorzystaniem narzędzi Business Intelligence oraz języków p
 * **Opis:** Projekt inżynierski zrealizowany w Tableau Desktop, badający zależności między wskaźnikami makro (PKB, stopy procentowe) a kondycją finansową spółki.
 * **Kluczowe funkcje:** Analiza korelacji Pearsona, badanie opóźnień czasowych (Lags) oraz interaktywny symulator wrażliwości finansowej.
 
-### 💰 [Model Analizy Fundamentalnej i Benchamarkingu Sektora Gamedev]()
+### 💰 [Model Analizy Fundamentalnej i Benchamarkingu Sektora Gamedev](https://github.com/kamilfurtak23/Gamedev-Financial-Valuation-DCF-Excel)
 * **Opis:** Kompleksowe narzędzie analityczne w Excelu służące do dynamicznej wyceny spółek z sektora gier (GPW) oraz automatycznego porównywania ich kondycji finansowej.
 * **Kluczowe funkcje:** Automatyzacja ETL (Power Query), wielowariantowa wycena DCF (Discounted Cash Flow), analiza predykcyjna (What-If Analysis) oraz wskaźniki ratingowe (Altman Z-Score, model DuPont).
 
