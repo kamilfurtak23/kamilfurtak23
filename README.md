@@ -39,5 +39,5 @@ Interesuję się wykorzystaniem narzędzi Business Intelligence oraz języków p
 
 ---
 
-## 📬 Kontakt i Linki
+## 📬 Kontakt
 * **Email:** [kamil.furtak23@gmail.com]
