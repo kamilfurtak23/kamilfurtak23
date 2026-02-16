@@ -10,7 +10,7 @@ Interesuję się wykorzystaniem narzędzi Business Intelligence oraz języków p
 ### 📊 BI i wizualizacja danych
 * **Tableau Desktop** - projektowanie zaawansowanych, interaktywnych pulpitów menedżerskich z naciskiem na przejrzystość i użyteczność (UI/UX). 
 * Wykorzystanie **parametrów** do dynamicznego sterowania widokami oraz tworzenie złożonych **formuł obliczeniowych** do głębokiej analizy danych.
-* **Power BI** – budowa raportów oraz wizualizacja kluczowych wskaźników efektywności (KPI).
+* **Power BI** - budowa raportów oraz wizualizacja kluczowych wskaźników efektywności (KPI).
 
 ### ⚙️ Przetwarzanie i analiza danych (ETL)
 * **MS Excel** - zaawansowane modelowanie danych oraz automatyzacja raportowania z wykorzystaniem funkcji finansowych i logicznych.
