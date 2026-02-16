@@ -29,7 +29,7 @@ Interesuję się wykorzystaniem narzędzi Business Intelligence oraz języków p
 
 ## Kluczowe Projekty
 
-### 📊 [Analiza wpływu makroekonomii na wyniki LPP S.A.]()
+### 📊 [Analiza wpływu makroekonomii na wyniki LPP S.A.](https://github.com/kamilfurtak23/LPP-Financial-Macro-Analysis-Tableau)
 * **Opis:** Projekt inżynierski zrealizowany w Tableau Desktop, badający zależności między wskaźnikami makro (PKB, stopy procentowe) a kondycją finansową spółki.
 * **Kluczowe funkcje:** Analiza korelacji Pearsona, badanie opóźnień czasowych (Lags) oraz interaktywny symulator wrażliwości finansowej.
 
