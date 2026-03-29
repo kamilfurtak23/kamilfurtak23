@@ -1,7 +1,7 @@
 # Cześć, jestem Kamil!
 
 ### Inżynier Zarządzania | Specjalista BI & Analityk Danych
-Absolwent Politechniki Wrocławskiej na kierunku **Inżynieria zarządzania** (specjalność: **Zastosowania IT w biznesie**). Obecnie kształcący się zaocznie na kierunku **Analityka gospodarcza i analiza dancyh**.  
+Absolwent Politechniki Wrocławskiej na kierunku **Inżynieria zarządzania** (specjalność: **Zastosowania IT w biznesie**). Obecnie kształcący się zaocznie na kierunku **Analityka gospodarcza i analiza danych**.  
 Interesuję się wykorzystaniem narzędzi Business Intelligence oraz języków programowania (SQL, R) do optymalizacji procesów decyzyjnych oraz szeroko pojętym modelowaniem i analizą danych finansowych. Skupiam się na przekształcaniu złożonych zbiorów danych w wartościowe informacje biznesowe, wspierające efektywne zarządzanie przedsiębiorstwem.
 
 ---
